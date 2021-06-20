@@ -26,8 +26,8 @@ navigation:
   - {file: "blog.html", icon: address-card}
 
 external:                    # see http://fontawesome.com/icons
-#  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/april1729"}
+  - {title: Mail, icon: envelope, url: "yasminzhang1126@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/tongqian1126"}
 #  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
